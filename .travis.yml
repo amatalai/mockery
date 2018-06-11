@@ -16,7 +16,7 @@ matrix:
   #   - elixir: 1.6
   #     otp_release: 18.0
   include:
-    - elixir: 1.6
+    - elixir: 1.6.5
       otp_release: 21.0-rc2
     # - elixir: 1.6
     #   otp_release: 20.0
