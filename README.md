@@ -1,6 +1,6 @@
 # Mockery
 
-[![Build Status](https://github.com/appunite/mockery/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/appunite/mockery/actions) [![Hex.pm](https://img.shields.io/hexpm/v/mockery.svg)](https://hex.pm/packages/mockery) [![Hex.pm](https://img.shields.io/hexpm/dt/mockery.svg)](https://hex.pm/packages/mockery) [![Hex.pm](https://img.shields.io/hexpm/dw/mockery.svg)](https://hex.pm/packages/mockery) [![License](https://img.shields.io/hexpm/l/mockery.svg)](https://github.com/appunite/mockery/blob/master/LICENSE)
+[![Build Status](https://github.com/appunite/mockery/actions/workflows/mockery.yml/badge.svg?branch=master)](https://github.com/appunite/mockery/actions) [![Hex.pm](https://img.shields.io/hexpm/v/mockery.svg)](https://hex.pm/packages/mockery) [![Hex.pm](https://img.shields.io/hexpm/dt/mockery.svg)](https://hex.pm/packages/mockery) [![Hex.pm](https://img.shields.io/hexpm/dw/mockery.svg)](https://hex.pm/packages/mockery) [![License](https://img.shields.io/hexpm/l/mockery.svg)](https://github.com/appunite/mockery/blob/master/LICENSE)
 
 Simple mocking library for asynchronous testing in Elixir.
 
